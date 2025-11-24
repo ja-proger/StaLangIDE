@@ -16,4 +16,4 @@ It supports
 - Terminal Emulator 
 - Full StaLang documentation
 - Writing custom docs in Markdown
-
+- StaLang Cores
