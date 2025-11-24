@@ -9,6 +9,7 @@
 **CURRENTLY IN DEVELOPMENT**
 
 **ANNOUNCED FEATURES**
+
 It supports
 - Code highlighting
 - Code completions
